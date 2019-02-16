@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingMethods", "SortingMethods\SortingMethods.csproj", "{B983D2C0-CB4C-41AA-A0C9-8CD7F12F13DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingMethodsTests", "SortingMethods.Tests\SortingMethodsTests.csproj", "{C3622729-13F8-4C80-94D6-C3815D721680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B983D2C0-CB4C-41AA-A0C9-8CD7F12F13DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B983D2C0-CB4C-41AA-A0C9-8CD7F12F13DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B983D2C0-CB4C-41AA-A0C9-8CD7F12F13DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B983D2C0-CB4C-41AA-A0C9-8CD7F12F13DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3622729-13F8-4C80-94D6-C3815D721680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3622729-13F8-4C80-94D6-C3815D721680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3622729-13F8-4C80-94D6-C3815D721680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3622729-13F8-4C80-94D6-C3815D721680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC492F3E-8C97-40B4-B9B4-7EC72952B792}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gaebster.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SortingMethods\\SortingMethods.csproj
+		SccProjectName1 = SortingMethods
+		SccLocalPath1 = SortingMethods
+		SccProjectUniqueName2 = SortingMethods.Tests\\SortingMethodsTests.csproj
+		SccProjectName2 = SortingMethods.Tests
+		SccLocalPath2 = SortingMethods.Tests
+	EndGlobalSection
+EndGlobal
